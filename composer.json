@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Sefasungur\\Btest\\": "src/"
+            "sefasungur\\btest\\": "src/"
         }
     },
     "authors": [
