@@ -1,7 +1,7 @@
 {
     "name": "sefasungur/btest",
     "description": "Test package for Bagisto",
-    "type": "library",
+    "type": "package",
     "license": "MIT",
     "autoload": {
         "psr-4": {
