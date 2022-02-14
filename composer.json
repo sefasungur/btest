@@ -1,0 +1,26 @@
+{
+    "name": "sefasungur/btest",
+    "description": "Test package for Bagisto",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sefasungur\\Btest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sefasungur",
+            "email": "info@sefasungur.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "sefasungur\\btest\\Providers\\btestServiceProvider"
+            ]
+        }
+    }
+}
